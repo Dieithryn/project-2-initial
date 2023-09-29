@@ -1,6 +1,7 @@
 package com.csc205.project2;
 
-public class Sphere {
+
+public class Sphere extends Shape {
 
     private double radius;
 
